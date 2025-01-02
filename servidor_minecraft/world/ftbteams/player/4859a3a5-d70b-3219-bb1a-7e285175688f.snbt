@@ -1,0 +1,17 @@
+{
+	id: "4859a3a5-d70b-3219-bb1a-7e285175688f"
+	type: "player"
+	player_name: "liani"
+	ranks: {
+		4859a3a5-d70b-3219-bb1a-7e285175688f: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "liani"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59F3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

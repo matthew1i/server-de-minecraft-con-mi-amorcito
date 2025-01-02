@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "4859a3a5d70b3219bb1a7e285175688f"
+	name: "liani#4859a3a5"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
