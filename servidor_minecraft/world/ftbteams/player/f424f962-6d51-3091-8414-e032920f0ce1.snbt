@@ -1,0 +1,17 @@
+{
+	id: "f424f962-6d51-3091-8414-e032920f0ce1"
+	type: "player"
+	player_name: "tutito"
+	ranks: {
+		f424f962-6d51-3091-8414-e032920f0ce1: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "tutito"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFDE"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

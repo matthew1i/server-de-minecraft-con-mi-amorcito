@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "f424f9626d5130918414e032920f0ce1"
+	name: "tutito#f424f962"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
