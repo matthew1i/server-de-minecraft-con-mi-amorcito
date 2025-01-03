@@ -29,6 +29,24 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-03 00:04:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-03 00:04:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 00:07:24 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/white_sheet": {
     "criteria": {
       "has_white_sheet": "2025-01-02 23:48:55 +0000"
@@ -77,9 +95,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-01-03 00:04:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/pine_boat": {
     "criteria": {
       "in_water": "2025-01-02 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-01-03 00:04:24 +0000"
     },
     "done": true
   },
@@ -92,6 +122,18 @@
   "aether:recipes/decorations/skyroot_cartography_table": {
     "criteria": {
       "has_paper": "2025-01-02 23:53:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/black_cushion": {
+    "criteria": {
+      "has_black_cushion": "2025-01-03 00:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-01-03 00:06:50 +0000"
     },
     "done": true
   },
@@ -149,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-03 00:06:50 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/notice_board": {
     "criteria": {
       "has_paper": "2025-01-02 23:53:56 +0000"
@@ -197,6 +245,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/black_stool": {
+    "criteria": {
+      "has_wool": "2025-01-03 00:01:55 +0000"
+    },
+    "done": true
+  },
   "aether_redux:recipes/combat/veridium_dart": {
     "criteria": {
       "has_feather": "2025-01-02 23:53:13 +0000"
@@ -206,6 +260,12 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 23:48:55 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-03 00:01:55 +0000"
     },
     "done": true
   },
@@ -233,6 +293,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-01-03 00:04:24 +0000"
+    },
+    "done": true
+  },
   "incubation:recipes/building_blocks/chicken_egg_crate": {
     "criteria": {
       "has_egg": "2025-01-02 23:42:08 +0000"
@@ -251,6 +317,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-03 00:01:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-01-03 00:01:53 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/oak_palisade": {
     "criteria": {
       "has_log": "2025-01-02 23:40:15 +0000"
@@ -260,6 +338,12 @@
   "hearth_and_home:recipes/shoji": {
     "criteria": {
       "has_item": "2025-01-02 23:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 00:01:55 +0000"
     },
     "done": true
   },
@@ -284,6 +368,12 @@
   "another_furniture:recipes/white_stool": {
     "criteria": {
       "has_wool": "2025-01-02 23:48:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-01-03 00:06:50 +0000"
     },
     "done": true
   },
@@ -314,6 +404,12 @@
   "twigs:recipes/paper_lanterns/paper_lantern": {
     "criteria": {
       "has_item": "2025-01-02 23:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-01-03 00:08:14 +0000"
     },
     "done": true
   },
@@ -348,15 +444,30 @@
     },
     "done": true
   },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-01-03 00:04:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "scrubland": "2025-01-02 23:44:37 +0000"
+      "scrubland": "2025-01-02 23:44:37 +0000",
+      "redwood_forest": "2025-01-03 00:06:31 +0000",
+      "dune_beach": "2025-01-03 00:06:38 +0000",
+      "prairie": "2025-01-03 00:06:29 +0000"
     },
     "done": false
   },
   "farmersdelight:recipes/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-02 23:57:07 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-03 00:07:31 +0000"
     },
     "done": true
   },
@@ -408,6 +519,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/black_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-03 00:01:55 +0000"
+    },
+    "done": true
+  },
   "twigs:recipes/stick_from_twig": {
     "criteria": {
       "has_item": "2025-01-02 23:40:24 +0000"
@@ -436,6 +553,7 @@
     "criteria": {
       "minecraft:beach": "2025-01-02 23:38:21 +0000",
       "minecraft:river": "2025-01-02 23:41:48 +0000",
+      "minecraft:forest": "2025-01-03 00:06:23 +0000",
       "minecraft:windswept_savanna": "2025-01-02 23:42:50 +0000",
       "minecraft:flower_forest": "2025-01-02 23:45:04 +0000",
       "minecraft:savanna": "2025-01-02 23:39:29 +0000",
@@ -443,9 +561,21 @@
     },
     "done": false
   },
+  "blue_skies:recipes/building_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-01-03 00:04:24 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/paper_lanterns": {
     "criteria": {
       "has_item": "2025-01-02 23:53:56 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/black_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-03 00:01:55 +0000"
     },
     "done": true
   },
@@ -473,9 +603,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/black_sheet": {
+    "criteria": {
+      "has_black_sheet": "2025-01-03 00:01:55 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-01-02 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/food/surf_and_turf": {
+    "criteria": {
+      "has_baked_potato": "2025-01-03 00:01:53 +0000"
     },
     "done": true
   },
@@ -521,6 +663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-01-02 23:59:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "scrubland": "2025-01-02 23:44:37 +0000"
@@ -542,6 +690,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-01-02 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 00:01:55 +0000"
     },
     "done": true
   },
@@ -590,6 +744,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-01-02 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-01-03 00:04:30 +0000"
     },
     "done": true
   },
@@ -683,6 +843,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/black_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-03 00:01:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-01-02 23:55:04 +0000"
@@ -725,6 +891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 00:01:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-01-02 23:41:56 +0000"
@@ -740,6 +912,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_log": "2025-01-02 23:40:15 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/bone_meal_from_seashells": {
+    "criteria": {
+      "has_item": "2025-01-03 00:01:56 +0000"
     },
     "done": true
   },
@@ -791,6 +969,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-01-03 00:04:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-02 23:42:08 +0000"
@@ -827,9 +1011,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 00:01:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/transportation/transformation_boat": {
     "criteria": {
       "in_water": "2025-01-02 23:41:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 00:01:55 +0000"
     },
     "done": true
   },
@@ -845,6 +1041,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-01-02 23:59:54 +0000"
+    },
+    "done": true
+  },
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-01-02 23:38:20 +0000"
@@ -854,6 +1056,18 @@
   "minecraft:recipes/food/pumpkin_seeds": {
     "criteria": {
       "has_pumpkin": "2025-01-02 23:57:07 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-01-03 00:04:24 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 00:01:55 +0000"
     },
     "done": true
   },
@@ -899,9 +1113,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-01-03 00:01:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_leggings": "2025-01-02 23:54:07 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/dandelion_paper_lantern": {
+    "criteria": {
+      "has_item": "2025-01-03 00:04:30 +0000"
     },
     "done": true
   },
