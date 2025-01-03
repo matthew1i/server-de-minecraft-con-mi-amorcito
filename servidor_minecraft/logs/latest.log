@@ -24,3 +24,8 @@
 [03Jan2025 00:08:36.651] [Server thread/INFO] [Jade/]: Syncing config to zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc)
 [03Jan2025 00:08:37.066] [Server thread/INFO] [ping-wheel/]: Channel update: zxymatthewyxz -> default
 [03Jan2025 00:08:37.067] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[03Jan2025 00:10:05.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 22.500000, 79.500000, 504.500000]
+[03Jan2025 00:10:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 92.500000, 79.500000, 585.500000]
+[03Jan2025 00:11:43.291] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tutito lost connection: Disconnected
+[03Jan2025 00:11:43.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito left the game
+[03Jan2025 00:11:43.292] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f424f962-6d51-3091-8414-e032920f0ce1
