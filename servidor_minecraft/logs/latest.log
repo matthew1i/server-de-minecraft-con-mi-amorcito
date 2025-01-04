@@ -3792,3 +3792,30 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 00:05:25.583] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [04Jan2025 00:05:25.584] [Server thread/WARN] [ModernFix/]: Dedicated server took 112.35 seconds to load
 [04Jan2025 00:05:25.587] [Server thread/INFO] [mixin/]: Mixing common.MixinServerStatus from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus
+[04Jan2025 00:27:37.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tutito[/100.84.145.86:60040] logged in with entity id 94 at (49.55681834987594, 69.0, 317.70130266684333)
+[04Jan2025 00:27:40.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to tutito
+[04Jan2025 00:27:40.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to tutito
+[04Jan2025 00:27:40.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to tutito
+[04Jan2025 00:27:40.518] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to tutito
+[04Jan2025 00:27:40.520] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to tutito
+[04Jan2025 00:27:40.523] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to tutito
+[04Jan2025 00:27:40.524] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to tutito
+[04Jan2025 00:27:40.563] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04Jan2025 00:27:40.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito joined the game
+[04Jan2025 00:27:40.931] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f424f962-6d51-3091-8414-e032920f0ce1
+[04Jan2025 00:27:41.007] [Server thread/INFO] [Jade/]: Syncing config to tutito (f424f962-6d51-3091-8414-e032920f0ce1)
+[04Jan2025 00:27:53.380] [Server thread/INFO] [ping-wheel/]: Channel update: tutito -> default
+[04Jan2025 00:27:53.383] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[04Jan2025 00:27:53.430] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15746ms or 314 ticks behind
+[04Jan2025 00:33:41.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zxymatthewyxz[/100.92.27.104:64859] logged in with entity id 1699 at (33.69999998807907, 85.0, 605.6408373298773)
+[04Jan2025 00:33:41.781] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to zxymatthewyxz
+[04Jan2025 00:33:41.782] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to zxymatthewyxz
+[04Jan2025 00:33:41.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to zxymatthewyxz
+[04Jan2025 00:33:41.783] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to zxymatthewyxz
+[04Jan2025 00:33:41.786] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to zxymatthewyxz
+[04Jan2025 00:33:41.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to zxymatthewyxz
+[04Jan2025 00:33:41.790] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to zxymatthewyxz
+[04Jan2025 00:33:41.808] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[04Jan2025 00:33:41.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz joined the game
+[04Jan2025 00:33:41.964] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 433be659-15d5-3745-9436-55cee3bfccfc
+[04Jan2025 00:33:41.971] [Server thread/INFO] [Jade/]: Syncing config to zxymatthewyxz (433be659-15d5-3745-9436-55cee3bfccfc)
