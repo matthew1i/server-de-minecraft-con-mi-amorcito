@@ -2285,7 +2285,9 @@
       "old_growth_woodland": "2025-01-04 01:28:54 +0000",
       "spider_nest": "2025-01-04 01:38:50 +0000",
       "dune_beach": "2025-01-04 00:38:44 +0000",
+      "volcano": "2025-01-04 01:50:29 +0000",
       "pasture": "2025-01-04 01:26:12 +0000",
+      "volcanic_plains": "2025-01-04 01:50:09 +0000",
       "prairie": "2025-01-02 23:45:56 +0000"
     },
     "done": false
@@ -2781,6 +2783,7 @@
       "minecraft:pillager": "2025-01-04 00:50:45 +0000",
       "minecraft:skeleton": "2025-01-03 00:02:52 +0000",
       "minecraft:spider": "2025-01-02 23:47:46 +0000",
+      "minecraft:creeper": "2025-01-04 01:43:19 +0000",
       "minecraft:zombie": "2025-01-04 01:07:43 +0000"
     },
     "done": false
@@ -2859,7 +2862,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-01-02 23:51:49 +0000"
+      "bread": "2025-01-02 23:51:49 +0000",
+      "enchanted_golden_apple": "2025-01-04 01:45:55 +0000"
     },
     "done": false
   },
@@ -4783,6 +4787,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-01-04 01:44:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -5077,6 +5087,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-04 01:47:28 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/pedestal": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-01-04 00:40:54 +0000"
@@ -5119,6 +5141,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-04 01:47:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-04 00:40:40 +0000"
@@ -5155,6 +5189,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-01-04 01:46:53 +0000"
+    },
+    "done": true
+  },
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2025-01-04 01:14:38 +0000"
@@ -5164,6 +5204,12 @@
   "handcrafted:recipes/misc/birch_pillar_trim": {
     "criteria": {
       "has_birch_pillar_trim": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-01-04 01:44:44 +0000"
     },
     "done": true
   },
@@ -5248,6 +5294,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-01-04 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-04 01:42:24 +0000"
     },
     "done": true
   },
@@ -5341,6 +5393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-01-04 01:06:44 +0000"
@@ -5389,6 +5447,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2025-01-04 01:47:29 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -5410,6 +5474,18 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-04 01:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-01-04 01:44:44 +0000"
     },
     "done": true
   },
@@ -5485,6 +5561,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-04 01:47:27 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/misc/raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-01-04 00:52:42 +0000"
@@ -5497,9 +5579,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-01-04 01:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
     },
     "done": true
   },
@@ -5581,9 +5675,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-01-04 01:47:28 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
     },
     "done": true
   },
@@ -5606,6 +5712,12 @@
       "oak_tree_1": "2025-01-04 00:52:11 +0000"
     },
     "done": false
+  },
+  "supplementaries:recipes/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
@@ -5655,6 +5767,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-01-04 00:53:55 +0000"
@@ -5682,6 +5806,12 @@
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-01-04 00:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
     },
     "done": true
   },
@@ -5721,9 +5851,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/stone_tile": {
+    "criteria": {
+      "has_stone_bricks": "2025-01-04 01:46:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-04 01:47:27 +0000"
     },
     "done": true
   },

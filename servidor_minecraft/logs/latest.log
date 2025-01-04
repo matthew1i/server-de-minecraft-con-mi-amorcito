@@ -3863,3 +3863,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 01:39:36.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
 [04Jan2025 01:40:01.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
 [04Jan2025 01:42:24.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Not Today, Thank You]
+[04Jan2025 01:44:59.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Alva'/33695, l='ServerLevel[world]', x=1020.45, y=69.00, z=209.45] died: Alva was slain by Basher
+[04Jan2025 01:50:24.003] [Worker-Main-42/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[04Jan2025 01:50:24.003] [Worker-Main-42/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[04Jan2025 01:51:22.064] [Worker-Main-42/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[04Jan2025 01:51:38.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
+[04Jan2025 01:52:05.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
+[04Jan2025 01:54:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 1475.500000, 134.500000, -521.500000]

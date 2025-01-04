@@ -2638,6 +2638,12 @@
     },
     "done": true
   },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-01-04 01:45:42 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_ladder": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -3472,6 +3478,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-04 01:45:42 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_wrapped_stick": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -3994,6 +4006,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-01-04 01:45:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wither_skeleton_trophy": {
     "criteria": {
       "has_wither_skeleton_trophy": "2025-01-04 00:44:05 +0000"
@@ -4212,6 +4230,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-04 01:49:56 +0000",
       "minecraft:zombie": "2025-01-04 01:13:53 +0000"
     },
     "done": false
@@ -4255,6 +4274,12 @@
   "betterend:recipes/misc/sulphur_gunpowder": {
     "criteria": {
       "has_coal_charcoal": "2025-01-04 00:47:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-01-04 01:45:42 +0000"
     },
     "done": true
   },
@@ -4735,6 +4760,12 @@
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-01-04 01:45:40 +0000"
     },
     "done": true
   },
