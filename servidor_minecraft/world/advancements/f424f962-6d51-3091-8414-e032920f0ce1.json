@@ -1900,6 +1900,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-04 01:55:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_taburet": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -2152,6 +2158,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_pickaxe_repairing": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-04 01:55:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/swift_sneak_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-04 00:49:54 +0000"
@@ -2281,6 +2293,12 @@
   "betternether:recipes/decorations/nether_reed_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-01-04 01:59:35 +0000"
     },
     "done": true
   },
@@ -2587,6 +2605,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-04 01:00:22 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-01-04 01:51:17 +0000"
     },
     "done": true
   },
@@ -3394,6 +3418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-04 01:57:59 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/lacugrove_bookshelf": {
     "criteria": {
       "has_book": "2025-01-04 00:49:54 +0000"
@@ -3823,6 +3853,12 @@
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/stone_shovel_repairing": {
+    "criteria": {
+      "has_stone_shovel": "2025-01-04 01:55:26 +0000"
     },
     "done": true
   },
@@ -4517,6 +4553,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-01-04 01:55:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:05 +0000"
@@ -4883,6 +4925,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/stone_axe_repairing": {
+    "criteria": {
+      "has_stone_axe": "2025-01-04 01:55:06 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/fd/biomesoplenty/redwood_cabinet": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:05 +0000"
@@ -4922,6 +4970,12 @@
   "advancednetherite:recipes/misc/netherite_iron_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]": "2025-01-04 00:48:16 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-04 01:51:17 +0000"
     },
     "done": true
   },

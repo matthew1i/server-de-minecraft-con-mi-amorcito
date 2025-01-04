@@ -3870,3 +3870,20 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 01:51:38.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2334ms or 46 ticks behind
 [04Jan2025 01:52:05.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
 [04Jan2025 01:54:28.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 1475.500000, 134.500000, -521.500000]
+[04Jan2025 01:55:01.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito has made the advancement [Getting an Upgrade]
+[04Jan2025 01:56:08.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Spectator Mode]
+[04Jan2025 01:56:40.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 01:57:20.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Spectator Mode]
+[04Jan2025 01:57:47.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 02:00:02.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <tutito> hace tutooo
+[04Jan2025 02:01:59.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Husk
+[04Jan2025 02:02:08.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 1240.500000, 100.500000, -583.500000]
+[04Jan2025 02:02:11.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Husk
+[04Jan2025 02:02:22.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 02:02:25.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 1240.500000, 100.500000, -583.500000]
+[04Jan2025 02:03:31.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
+[04Jan2025 02:03:57.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 838.500000, 70.500000, -568.500000]
+[04Jan2025 02:04:53.971] [pool-9-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_wooded_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / blue_skies:village_sunset_maple_forest], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle]] from pos BlockPos{x=459, y=67, z=-581}
+[04Jan2025 02:04:58.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4593ms or 91 ticks behind
+[04Jan2025 02:04:59.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=459, y=67, z=-581} but found not block entity block Block{minecraft:air} at location
+[04Jan2025 02:04:59.023] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=459, y=67, z=-581}

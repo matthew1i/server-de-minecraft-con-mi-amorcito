@@ -2288,7 +2288,8 @@
       "volcano": "2025-01-04 01:50:29 +0000",
       "pasture": "2025-01-04 01:26:12 +0000",
       "volcanic_plains": "2025-01-04 01:50:09 +0000",
-      "prairie": "2025-01-02 23:45:56 +0000"
+      "prairie": "2025-01-02 23:45:56 +0000",
+      "rainforest": "2025-01-04 01:54:42 +0000"
     },
     "done": false
   },
@@ -2784,6 +2785,8 @@
       "minecraft:skeleton": "2025-01-03 00:02:52 +0000",
       "minecraft:spider": "2025-01-02 23:47:46 +0000",
       "minecraft:creeper": "2025-01-04 01:43:19 +0000",
+      "minecraft:cave_spider": "2025-01-04 02:00:34 +0000",
+      "minecraft:silverfish": "2025-01-04 01:55:58 +0000",
       "minecraft:zombie": "2025-01-04 01:07:43 +0000"
     },
     "done": false
@@ -4805,6 +4808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-01-04 01:56:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-04 00:40:54 +0000"
@@ -5213,9 +5222,21 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-01-04 01:58:24 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-01-04 01:58:24 +0000"
     },
     "done": true
   },
@@ -5327,6 +5348,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-01-04 01:58:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-01-04 01:19:05 +0000"
@@ -5429,6 +5456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-04 01:57:55 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-01-04 01:19:05 +0000"
@@ -5486,6 +5519,12 @@
   "betterend:recipes/misc/sweet_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-01-04 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-04 01:56:46 +0000"
     },
     "done": true
   },
@@ -5681,6 +5720,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-04 01:57:55 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_side_table": {
     "criteria": {
       "has_birch_side_table": "2025-01-04 01:19:05 +0000"
@@ -5709,7 +5754,8 @@
     "criteria": {
       "prison_small_1": "2025-01-04 01:29:36 +0000",
       "oak_house_small_3": "2025-01-04 01:20:50 +0000",
-      "oak_tree_1": "2025-01-04 00:52:11 +0000"
+      "oak_tree_1": "2025-01-04 00:52:11 +0000",
+      "oak_hut_1": "2025-01-04 01:53:23 +0000"
     },
     "done": false
   },
