@@ -3837,3 +3837,21 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 01:12:07.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Zombie
 [04Jan2025 01:12:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <tutito> te amo mucho
 [04Jan2025 01:13:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito has made the advancement [Monster Hunter]
+[04Jan2025 01:18:13.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito was shot by Pillager
+[04Jan2025 01:18:39.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Voluntary Exile]
+[04Jan2025 01:22:28.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 01:24:25.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
+[04Jan2025 01:25:09.773] [Worker-Main-41/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/exclusives/mediterranean/villager_bishop
+[04Jan2025 01:26:32.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <tutito> hace tuto
+[04Jan2025 01:26:37.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2093ms or 41 ticks behind
+[04Jan2025 01:27:16.888] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Chang'/20051, l='ServerLevel[world]', x=1031.70, y=70.00, z=213.77] died, message: 'Chang was slain by Vindicator'
+[04Jan2025 01:27:16.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Chang'/20051, l='ServerLevel[world]', x=1031.70, y=70.00, z=213.77] died: Chang was slain by Vindicator
+[04Jan2025 01:27:20.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Minnie'/20245, l='ServerLevel[world]', x=1028.09, y=64.92, z=219.61] died: Minnie was shot by Arrow
+[04Jan2025 01:28:22.509] [Worker-Main-42/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[04Jan2025 01:28:45.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Summoned new Cow]
+[04Jan2025 01:31:54.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito was shot by Pillager
+[04Jan2025 01:32:02.846] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Isaiah'/25849, l='ServerLevel[world]', x=1007.45, y=69.00, z=208.32] died: Isaiah was slain by Vindicator
+[04Jan2025 01:32:04.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Melissa'/25845, l='ServerLevel[world]', x=1005.71, y=69.00, z=206.72] died: Melissa was slain by Vindicator
+[04Jan2025 01:32:05.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lon'/25934, l='ServerLevel[world]', x=1008.45, y=70.00, z=203.94] died: Lon was slain by Vindicator
+[04Jan2025 01:32:06.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Reginald'/25844, l='ServerLevel[world]', x=1009.46, y=70.00, z=208.12] died: Reginald was slain by Vindicator
+[04Jan2025 01:32:09.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Benjamin'/25928, l='ServerLevel[world]', x=1014.01, y=70.00, z=201.25] died: Benjamin was slain by Vindicator

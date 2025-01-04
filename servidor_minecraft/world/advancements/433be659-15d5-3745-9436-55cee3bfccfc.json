@@ -67,9 +67,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:sunflower_plains": "2025-01-04 01:24:03 +0000",
       "minecraft:beach": "2025-01-02 23:33:42 +0000",
       "minecraft:river": "2025-01-02 23:46:07 +0000",
       "minecraft:forest": "2025-01-04 00:38:00 +0000",
+      "minecraft:ocean": "2025-01-04 01:23:31 +0000",
       "minecraft:savanna": "2025-01-02 23:31:13 +0000",
       "minecraft:plains": "2025-01-02 23:45:17 +0000"
     },
@@ -2280,7 +2282,9 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-01-02 23:47:23 +0000",
+      "old_growth_woodland": "2025-01-04 01:28:54 +0000",
       "dune_beach": "2025-01-04 00:38:44 +0000",
+      "pasture": "2025-01-04 01:26:12 +0000",
       "prairie": "2025-01-02 23:45:56 +0000"
     },
     "done": false
@@ -4766,6 +4770,18 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_loom": {
+    "criteria": {
+      "has_string": "2025-01-04 01:12:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -4808,9 +4824,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_nightstand": {
+    "criteria": {
+      "has_birch_nightstand": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/gray_cushion": {
     "criteria": {
       "has_gray_cushion": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_seat": {
+    "criteria": {
+      "has_plank": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -4832,9 +4866,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_cupboard": {
+    "criteria": {
+      "has_birch_cupboard": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 00:40:54 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_counter": {
+    "criteria": {
+      "has_birch_counter": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -4868,6 +4914,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_desk": {
+    "criteria": {
+      "has_birch_desk": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_pickaxe_repairing": {
     "criteria": {
       "has_diamond_pickaxe": "2025-01-04 01:04:24 +0000"
@@ -4886,6 +4938,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-04 01:12:37 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-01-04 00:40:54 +0000"
@@ -4895,6 +4953,12 @@
   "handcrafted:recipes/misc/golden_thin_pot": {
     "criteria": {
       "has_golden_thin_pot": "2025-01-04 01:02:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_fancy_bed": {
+    "criteria": {
+      "has_birch_fancy_bed": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -4937,6 +5001,12 @@
   "stoneworks:recipes/building_blocks/diorite_pillar_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -5042,6 +5112,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-01-04 01:12:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-04 00:40:40 +0000"
@@ -5066,6 +5142,36 @@
     },
     "done": true
   },
+  "suppsquared:recipes/decorations/item_shelf_birch": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-04 01:12:37 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-01-04 01:14:38 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_pillar_trim": {
+    "criteria": {
+      "has_birch_pillar_trim": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_chair": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -5084,6 +5190,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_bench": {
+    "criteria": {
+      "has_birch_bench": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/gray_sofa": {
     "criteria": {
       "has_wool": "2025-01-04 00:39:57 +0000"
@@ -5096,9 +5208,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-04 01:12:37 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-04 01:12:37 +0000"
     },
     "done": true
   },
@@ -5126,9 +5256,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_shelf": {
+    "criteria": {
+      "has_birch_shelf": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/chicken_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-04 01:18:39 +0000"
     },
     "done": true
   },
@@ -5144,9 +5298,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-04 01:12:37 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/crab_cakes": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-04 01:12:37 +0000"
     },
     "done": true
   },
@@ -5159,6 +5325,12 @@
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-01-04 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-04 01:12:37 +0000"
     },
     "done": true
   },
@@ -5186,9 +5358,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-04 01:11:04 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2025-01-04 01:06:44 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/birch_support": {
+    "criteria": {
+      "has_plank": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -5222,15 +5406,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 01:17:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_drawer": {
+    "criteria": {
+      "has_birch_drawer": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2025-01-04 01:00:18 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/birch_table": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -5294,6 +5496,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -5303,6 +5511,18 @@
   "stoneworks:recipes/building_blocks/diorite_plate_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_table": {
+    "criteria": {
+      "has_birch_table": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -5324,9 +5544,27 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_birch": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-01-04 01:11:44 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/chiseled_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -5339,6 +5577,12 @@
   "crabbersdelight:recipes/building_blocks/crab_barrel": {
     "criteria": {
       "has_crab": "2025-01-04 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_side_table": {
+    "criteria": {
+      "has_birch_side_table": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -5356,6 +5600,8 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "prison_small_1": "2025-01-04 01:29:36 +0000",
+      "oak_house_small_3": "2025-01-04 01:20:50 +0000",
       "oak_tree_1": "2025-01-04 00:52:11 +0000"
     },
     "done": false
@@ -5369,6 +5615,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_corner_trim": {
+    "criteria": {
+      "has_birch_corner_trim": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -5396,6 +5648,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/birch_couch": {
+    "criteria": {
+      "has_birch_couch": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-01-04 00:53:55 +0000"
@@ -5414,6 +5672,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/sign_post_birch": {
+    "criteria": {
+      "has_the_recipe": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bellows": {
     "criteria": {
       "has_leather": "2025-01-04 00:40:54 +0000"
@@ -5423,6 +5687,18 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-01-04 00:45:34 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_dining_bench": {
+    "criteria": {
+      "has_birch_dining_bench": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/birch_chair": {
+    "criteria": {
+      "has_birch_chair": "2025-01-04 01:19:05 +0000"
     },
     "done": true
   },
@@ -5438,9 +5714,27 @@
     },
     "done": true
   },
+  "twigs:recipes/tables/birch_table": {
+    "criteria": {
+      "has_bamboo": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/crossbow_repairing": {
     "criteria": {
       "has_crossbow": "2025-01-04 01:10:35 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/misc/silver_ingot_from_nuggets": {
+    "criteria": {
+      "has_silver_nugget": "2025-01-04 01:14:34 +0000"
     },
     "done": true
   },

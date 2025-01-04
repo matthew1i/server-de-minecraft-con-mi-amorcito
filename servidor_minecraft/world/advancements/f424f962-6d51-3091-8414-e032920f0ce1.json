@@ -1330,6 +1330,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-01-04 01:10:51 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/oak_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -2728,6 +2734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-01-04 01:27:27 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/thallasium_sword_handle": {
     "criteria": {
       "has_item.minecraft.stick": "2025-01-04 00:44:48 +0000"
@@ -3160,6 +3172,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-04 01:15:55 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/channeling_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-04 00:49:54 +0000"
@@ -3316,6 +3334,12 @@
     },
     "done": true
   },
+  "decorative_blocks:recipes/building_blocks/oak_beam": {
+    "criteria": {
+      "has_stripped_log": "2025-01-04 01:15:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cloudcap_planks_to_skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-01-04 00:49:54 +0000"
@@ -3337,6 +3361,12 @@
   "betternether:recipes/decorations/bamboo_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-01-04 01:10:52 +0000"
     },
     "done": true
   },
@@ -3367,6 +3397,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-04 00:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 01:15:55 +0000"
     },
     "done": true
   },
@@ -3547,6 +3583,12 @@
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-01-04 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/dark_oak_palisade": {
+    "criteria": {
+      "has_log": "2025-01-04 01:27:27 +0000"
     },
     "done": true
   },
@@ -3880,6 +3922,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-04 01:13:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_taburet": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -3913,6 +3961,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_taburet": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-01-04 01:10:48 +0000"
     },
     "done": true
   },
@@ -4155,6 +4209,12 @@
       "has_cobblestone": "2025-01-04 00:55:30 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-04 01:13:53 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
@@ -4723,6 +4783,12 @@
   "betterend:recipes/redstone/jellyshroom_gate": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-04 01:27:27 +0000"
     },
     "done": true
   },
