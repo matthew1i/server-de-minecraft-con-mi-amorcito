@@ -4015,3 +4015,28 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 03:03:55.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
 [04Jan2025 03:04:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -2847.500000, -21.158207, 2512.500000]
 [04Jan2025 03:05:07.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 03:07:09.861] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[04Jan2025 03:07:11.770] [Worker-Main-40/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[04Jan2025 03:07:11.833] [Worker-Main-40/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 63ms
+[04Jan2025 03:07:14.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Time for a Sweat]
+[04Jan2025 03:07:14.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [We Need to Go Deeper]
+[04Jan2025 03:07:14.356] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4471ms or 89 ticks behind
+[04Jan2025 03:07:28.737] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_flame_located (cataclysm:burning_arena) took 2461 ms
+[04Jan2025 03:07:36.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 4480.500000, 62.248987, 4672.500000]
+[04Jan2025 03:07:36.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4255ms or 85 ticks behind
+[04Jan2025 03:07:36.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [A Burning Arena]
+[04Jan2025 03:08:02.391] [Worker-Main-40/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[04Jan2025 03:08:02.393] [Worker-Main-40/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[04Jan2025 03:08:02.393] [Worker-Main-40/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[04Jan2025 03:08:02.394] [Worker-Main-40/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[04Jan2025 03:08:02.395] [Worker-Main-40/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[04Jan2025 03:08:02.396] [Worker-Main-40/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[04Jan2025 03:08:02.397] [Worker-Main-40/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[04Jan2025 03:08:02.397] [Worker-Main-40/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:basalt_chambers/chambers
+[04Jan2025 03:08:05.789] [Worker-Main-42/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:3.9758217f,range:8,source:{pos:[I;-50,-59,-59],type:"minecraft:block"}}]
+[04Jan2025 03:08:18.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Into Fire]
+[04Jan2025 03:08:58.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito has made the advancement [Voluntary Exile]
+[04Jan2025 03:12:44.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito was shot by Pillager
+[04Jan2025 03:13:14.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
+[04Jan2025 03:13:24.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito was shot by Pillager
+[04Jan2025 03:14:22.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]

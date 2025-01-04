@@ -2293,6 +2293,7 @@
       "floodplain": "2025-01-04 02:07:15 +0000",
       "highland": "2025-01-04 02:12:02 +0000",
       "jacaranda_glade": "2025-01-04 02:11:34 +0000",
+      "marsh": "2025-01-04 03:04:06 +0000",
       "old_growth_woodland": "2025-01-04 01:28:54 +0000",
       "orchard": "2025-01-04 02:11:33 +0000",
       "mediterranean_forest": "2025-01-04 02:08:47 +0000",
@@ -4818,6 +4819,19 @@
     },
     "done": true
   },
+  "betternether:all_the_biomes": {
+    "criteria": {
+      "betternether:nether_mushroom_forest_edge": "2025-01-04 03:07:23 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-01-04 03:07:36 +0000",
+      "minecraft:soul_sand_valley": "2025-01-04 03:07:15 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -4896,6 +4910,12 @@
     },
     "done": true
   },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-01-04 03:07:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-01-04 01:19:05 +0000"
@@ -4965,6 +4985,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "bygonenether:root": {
+    "criteria": {
+      "entered_nether": "2025-01-04 03:07:14 +0000"
     },
     "done": true
   },
@@ -5061,6 +5087,12 @@
   "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
       "has_tripwire_hook": "2025-01-04 02:01:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 03:08:18 +0000"
     },
     "done": true
   },
@@ -5382,6 +5414,12 @@
     },
     "done": true
   },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 03:08:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -5460,6 +5498,12 @@
     },
     "done": true
   },
+  "adorabuild_structures:nether_structures": {
+    "criteria": {
+      "example": "2025-01-04 03:07:14 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_chair": {
     "criteria": {
       "has_planks": "2025-01-04 01:19:05 +0000"
@@ -5487,6 +5531,12 @@
   "stoneworks:recipes/building_blocks/cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-01-04 03:07:14 +0000"
     },
     "done": true
   },
@@ -5622,6 +5672,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-04 03:08:18 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2025-01-04 01:58:24 +0000"
@@ -5643,6 +5699,12 @@
   "stoneworks:recipes/building_blocks/diorite_tiles_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-01-04 03:07:36 +0000"
     },
     "done": true
   },
@@ -5779,6 +5841,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-04 03:07:14 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/birch_support": {
     "criteria": {
       "has_plank": "2025-01-04 01:19:05 +0000"
@@ -5911,6 +5979,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2025-01-04 03:07:03 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_table": {
     "criteria": {
       "has_planks": "2025-01-04 01:19:05 +0000"
@@ -5932,6 +6006,12 @@
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-01-04 01:09:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 03:08:18 +0000"
     },
     "done": true
   },
@@ -6115,6 +6195,12 @@
     },
     "done": true
   },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2025-01-04 03:02:25 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/sign_post_birch": {
     "criteria": {
       "has_planks": "2025-01-04 01:19:05 +0000"
@@ -6178,6 +6264,12 @@
   "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
     "criteria": {
       "has_iron_ore": "2025-01-04 01:57:55 +0000"
+    },
+    "done": true
+  },
+  "betternether:enter_nether": {
+    "criteria": {
+      "entered_nether": "2025-01-04 03:07:14 +0000"
     },
     "done": true
   },
@@ -6409,6 +6501,12 @@
   "handcrafted:recipes/misc/golden_wide_pot": {
     "criteria": {
       "has_golden_wide_pot": "2025-01-04 01:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-04 03:08:18 +0000"
     },
     "done": true
   },

@@ -1144,6 +1144,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lacugrove_taburet": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -1396,6 +1402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_ladder": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -1576,6 +1588,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/hourglass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/wolf_trophy": {
     "criteria": {
       "has_wolf_trophy": "2025-01-04 00:44:05 +0000"
@@ -1627,6 +1645,12 @@
   "betterend:recipes/misc/infinity_book": {
     "criteria": {
       "has_item.minecraft.book": "2025-01-04 00:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
     },
     "done": true
   },
@@ -1822,6 +1846,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -1855,6 +1885,12 @@
   "betternether:recipes/decorations/willow_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
     },
     "done": true
   },
@@ -1969,6 +2005,12 @@
   "betterend:recipes/decorations/lucernia_taburet": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
     },
     "done": true
   },
@@ -2212,6 +2254,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -2383,6 +2437,12 @@
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "hearth_and_home:recipes/barred_glass": {
+    "criteria": {
+      "has_item": "2025-01-04 03:05:14 +0000"
     },
     "done": true
   },
@@ -2740,6 +2800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "decorative_blocks:recipes/building_blocks/rocky_dirt": {
     "criteria": {
       "has_dirt": "2025-01-04 00:34:39 +0000"
@@ -2959,6 +3025,12 @@
   "betternether:recipes/decorations/stalagnate_fence": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
     },
     "done": true
   },
@@ -3220,6 +3292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/redwood_couch": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:05 +0000"
@@ -3253,6 +3331,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-04 03:08:58 +0000"
     },
     "done": true
   },
@@ -3364,6 +3448,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-01-04 00:48:16 +0000"
@@ -3433,6 +3523,12 @@
   "betternether:recipes/decorations/oak_chair": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-01-04 03:03:57 +0000"
     },
     "done": true
   },
@@ -3670,6 +3766,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2025-01-04 03:03:57 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/iron_chandelier": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 00:48:16 +0000"
@@ -3697,6 +3799,12 @@
   "crabbersdelight:recipes/decorations/crab_trap": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
     },
     "done": true
   },
@@ -3748,6 +3856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-01-04 03:03:57 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bed_from_feather_block": {
     "criteria": {
       "minecraft:planks": "2025-01-04 00:44:05 +0000"
@@ -3787,6 +3901,12 @@
   "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_item": "2025-01-04 00:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
     },
     "done": true
   },
@@ -4384,6 +4504,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "everycomp:recipes/decorations/hc/biomesoplenty/redwood_drawer": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:05 +0000"
@@ -4645,6 +4771,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/anchor_tree_gate": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -4843,6 +4975,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flags/flag_brown": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -4969,6 +5107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
+    },
+    "done": true
+  },
   "hearth_and_home:recipes/sanded_wood": {
     "criteria": {
       "has_item": "2025-01-04 00:44:05 +0000"
@@ -5008,6 +5152,12 @@
   "blue_skies:recipes/building_blocks/bluebright_bookshelf": {
     "criteria": {
       "has_item": "2025-01-04 00:49:54 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-01-04 03:05:14 +0000"
     },
     "done": true
   },
