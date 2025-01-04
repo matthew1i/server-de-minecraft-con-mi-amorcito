@@ -4844,6 +4844,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/food/cooked_grittle_flatfish_from_smoking_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2025-01-04 03:26:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-01-04 01:56:46 +0000"
@@ -5216,6 +5222,12 @@
     },
     "done": true
   },
+  "oceansdelight:recipes/cooked_stuffed_cod_from_campfire_cooking": {
+    "criteria": {
+      "cooked_stuffed_cod": "2025-01-04 03:27:04 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -5249,6 +5261,12 @@
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-01-04 03:25:49 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_grittle_flatfish_from_campfire_cooking_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2025-01-04 03:26:48 +0000"
     },
     "done": true
   },
@@ -5336,6 +5354,12 @@
     },
     "done": true
   },
+  "oceansdelight:recipes/cooked_stuffed_cod_from_smoking": {
+    "criteria": {
+      "cooked_stuffed_cod": "2025-01-04 03:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-01-04 00:40:54 +0000"
@@ -5417,6 +5441,12 @@
   "handcrafted:recipes/misc/golden_thick_pot": {
     "criteria": {
       "has_golden_thick_pot": "2025-01-04 01:02:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/food/cooked_grittle_flatfish_from_smelting_grittle_flatfish": {
+    "criteria": {
+      "has_item": "2025-01-04 03:26:48 +0000"
     },
     "done": true
   },
@@ -5555,6 +5585,12 @@
   "aether:recipes/tools/zanite_shovel": {
     "criteria": {
       "has_zanite": "2025-01-04 02:50:35 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/cooked_stuffed_cod": {
+    "criteria": {
+      "cooked_stuffed_cod": "2025-01-04 03:27:04 +0000"
     },
     "done": true
   },
