@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-01-04 02:14:26 +0000",
       "minecraft:sunflower_plains": "2025-01-04 01:24:03 +0000",
       "minecraft:beach": "2025-01-02 23:33:42 +0000",
       "minecraft:sparse_jungle": "2025-01-04 02:04:06 +0000",
@@ -76,6 +77,7 @@
       "minecraft:forest": "2025-01-04 00:38:00 +0000",
       "minecraft:jungle": "2025-01-04 02:07:02 +0000",
       "minecraft:ocean": "2025-01-04 01:23:31 +0000",
+      "minecraft:windswept_savanna": "2025-01-04 02:12:38 +0000",
       "minecraft:savanna": "2025-01-02 23:31:13 +0000",
       "minecraft:plains": "2025-01-02 23:45:17 +0000"
     },
@@ -2288,13 +2290,17 @@
       "woodland": "2025-01-04 02:03:02 +0000",
       "scrubland": "2025-01-02 23:47:23 +0000",
       "floodplain": "2025-01-04 02:07:15 +0000",
+      "highland": "2025-01-04 02:12:02 +0000",
+      "jacaranda_glade": "2025-01-04 02:11:34 +0000",
       "old_growth_woodland": "2025-01-04 01:28:54 +0000",
+      "orchard": "2025-01-04 02:11:33 +0000",
       "mediterranean_forest": "2025-01-04 02:08:47 +0000",
       "spider_nest": "2025-01-04 01:38:50 +0000",
       "dune_beach": "2025-01-04 00:38:44 +0000",
       "volcano": "2025-01-04 01:50:29 +0000",
       "pasture": "2025-01-04 01:26:12 +0000",
       "volcanic_plains": "2025-01-04 01:50:09 +0000",
+      "lavender_field": "2025-01-04 02:11:58 +0000",
       "prairie": "2025-01-02 23:45:56 +0000",
       "rainforest": "2025-01-04 01:54:42 +0000",
       "crag": "2025-01-04 02:06:19 +0000"
@@ -4888,6 +4894,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 02:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -5020,6 +5032,12 @@
     },
     "done": true
   },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_flower_forest": "2025-01-04 02:13:00 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
@@ -5077,6 +5095,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 02:12:32 +0000"
     },
     "done": true
   },
@@ -5416,9 +5440,21 @@
     },
     "done": true
   },
+  "galosphere:recipes/decorations/amethyst_lamp": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 02:12:32 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/feather_block": {
     "criteria": {
       "has_feather": "2025-01-04 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 02:12:32 +0000"
     },
     "done": true
   },
@@ -5443,6 +5479,12 @@
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_c_furnaces": "2025-01-04 01:06:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-01-04 02:14:26 +0000"
     },
     "done": true
   },
@@ -5506,6 +5548,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/crystal_display": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 02:12:32 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_shovel_repairing": {
     "criteria": {
       "has_stone_shovel": "2025-01-04 00:47:55 +0000"
@@ -5551,6 +5599,18 @@
   "handcrafted:recipes/misc/birch_drawer": {
     "criteria": {
       "has_birch_drawer": "2025-01-04 01:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 02:12:32 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-04 02:12:32 +0000"
     },
     "done": true
   },

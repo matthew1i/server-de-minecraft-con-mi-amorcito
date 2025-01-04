@@ -3942,3 +3942,10 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 02:14:25.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -3391.500000, 65.000000, 32.500000]
 [04Jan2025 02:14:25.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6381ms or 127 ticks behind
 [04Jan2025 02:14:26.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Sunken City]
+[04Jan2025 02:15:49.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito was shot by Pillager
+[04Jan2025 02:16:13.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
+[04Jan2025 02:17:01.824] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #mowzies_cataclysm:sun_eye_located (mowziesmobs:umvuthana_grove) took 21 ms
+[04Jan2025 02:17:06.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to 512.500000, 69.000000, -239.500000]
+[04Jan2025 02:22:40.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Praise the Sun]
+[04Jan2025 02:24:09.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 02:24:12.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
