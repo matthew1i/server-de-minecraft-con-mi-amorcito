@@ -3855,3 +3855,11 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 01:32:05.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Lon'/25934, l='ServerLevel[world]', x=1008.45, y=70.00, z=203.94] died: Lon was slain by Vindicator
 [04Jan2025 01:32:06.383] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Reginald'/25844, l='ServerLevel[world]', x=1009.46, y=70.00, z=208.12] died: Reginald was slain by Vindicator
 [04Jan2025 01:32:09.302] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Benjamin'/25928, l='ServerLevel[world]', x=1014.01, y=70.00, z=201.25] died: Benjamin was slain by Vindicator
+[04Jan2025 01:34:53.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 01:35:16.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 01:35:46.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 01:37:54.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Spectator Mode]
+[04Jan2025 01:39:22.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 01:39:36.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
+[04Jan2025 01:40:01.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 01:42:24.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Not Today, Thank You]
