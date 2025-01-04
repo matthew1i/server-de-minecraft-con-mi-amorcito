@@ -4040,3 +4040,4 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 03:13:14.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
 [04Jan2025 03:13:24.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito was shot by Pillager
 [04Jan2025 03:14:22.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 03:25:08.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
