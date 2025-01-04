@@ -5064,6 +5064,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-01-04 02:34:06 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/brewing/tag_cauldron": {
     "criteria": {
       "has_tag_c_iron_ingots": "2025-01-04 00:48:16 +0000"

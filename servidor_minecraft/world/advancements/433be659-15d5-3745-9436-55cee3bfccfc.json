@@ -4806,6 +4806,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-01-04 02:39:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/blossom_berry_jelly_potion": {
     "criteria": {
       "has_potion": "2025-01-04 01:44:44 +0000"
@@ -5733,6 +5739,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-01-04 00:53:55 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:lost_caves": {
+    "criteria": {
+      "lost_caves": "2025-01-04 02:41:12 +0000"
     },
     "done": true
   },

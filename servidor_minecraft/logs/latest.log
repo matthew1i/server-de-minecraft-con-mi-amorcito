@@ -3955,3 +3955,19 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 02:27:44.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6001ms or 120 ticks behind
 [04Jan2025 02:27:57.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Cursed Pyramid]
 [04Jan2025 02:34:02.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 02:37:19.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was exterminated by The Harbinger 's laser
+[04Jan2025 02:37:28.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -6619.500000, 70.500000, -3938.500000]
+[04Jan2025 02:37:39.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by The Harbinger
+[04Jan2025 02:37:45.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 02:37:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -6626.500000, 70.500000, -3955.500000]
+[04Jan2025 02:39:17.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [The Thing of Ancient Civilization]
+[04Jan2025 02:40:28.993] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #cataclysm:eye_of_mech_located (cataclysm:ancient_factory) took 88 ms
+[04Jan2025 02:40:35.589] [Worker-Main-41/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[04Jan2025 02:40:41.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -11583.500000, 72.493907, -3791.500000]
+[04Jan2025 02:40:41.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8833ms or 176 ticks behind
+[04Jan2025 02:41:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [A Howling Discovery]
+[04Jan2025 02:41:46.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Spectator Mode]
+[04Jan2025 02:41:52.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Ancient Civilization]
+[04Jan2025 02:42:22.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 02:42:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 02:44:54.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Shape of My Heart]
