@@ -3934,6 +3934,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-04 02:29:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/sconce_lever": {
     "criteria": {
       "has_redstone": "2025-01-04 00:55:32 +0000"
@@ -4327,6 +4333,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-04 01:49:56 +0000",
+      "minecraft:spider": "2025-01-04 02:29:26 +0000",
       "minecraft:zombie": "2025-01-04 01:13:53 +0000"
     },
     "done": false
