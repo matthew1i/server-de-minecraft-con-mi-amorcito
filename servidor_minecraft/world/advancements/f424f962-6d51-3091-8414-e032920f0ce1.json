@@ -1156,6 +1156,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-01-04 01:02:49 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -1273,6 +1279,12 @@
   "everycomp:recipes/decorations/hc/biomesoplenty/redwood_pillar_trim": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/campfire/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-01-04 01:01:15 +0000"
     },
     "done": true
   },
@@ -1501,6 +1513,12 @@
   "decorative_blocks:recipes/building_blocks/oak_seat": {
     "criteria": {
       "has_plank": "2025-01-04 01:00:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-04 01:02:49 +0000"
     },
     "done": true
   },
@@ -1879,6 +1897,12 @@
   "betterend:recipes/decorations/jellyshroom_taburet": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-01-04 01:02:46 +0000"
     },
     "done": true
   },
@@ -2410,6 +2434,12 @@
     },
     "done": true
   },
+  "galosphere:recipes/combat/silver_bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-01-04 01:02:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-04 00:48:16 +0000"
@@ -2521,6 +2551,12 @@
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-01-04 00:35:46 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_fence": {
+    "criteria": {
+      "has_item": "2025-01-04 01:02:46 +0000"
     },
     "done": true
   },
@@ -2785,6 +2821,12 @@
   "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
     "criteria": {
       "has_book": "2025-01-04 00:49:54 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/storage/acorn_storage_block": {
+    "criteria": {
+      "has_acorn": "2025-01-04 01:01:15 +0000"
     },
     "done": true
   },
@@ -3358,6 +3400,12 @@
     },
     "done": true
   },
+  "delightful:recipes/smelting/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-01-04 01:01:15 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_counter": {
     "criteria": {
       "has_oak_counter": "2025-01-04 01:00:22 +0000"
@@ -3391,6 +3439,12 @@
   "betterend:recipes/misc/leather_wrapped_stick": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_rod": {
+    "criteria": {
+      "has_item": "2025-01-04 01:02:46 +0000"
     },
     "done": true
   },
@@ -3451,6 +3505,12 @@
   "everycomp:recipes/decorations/af/biomesoplenty/redwood_chair": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-01-04 01:02:41 +0000"
     },
     "done": true
   },
@@ -3532,6 +3592,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-04 01:02:46 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/spruce_taburet": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -3559,6 +3625,12 @@
   "betternether:recipes/decorations/wart_taburet": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/bone_knife": {
+    "criteria": {
+      "has_bones": "2025-01-04 01:02:46 +0000"
     },
     "done": true
   },
@@ -3736,6 +3808,12 @@
     },
     "done": true
   },
+  "delightful:recipes/smoking/roasted_acorn": {
+    "criteria": {
+      "roasted_acorn": "2025-01-04 01:01:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/jungle_taburet": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
@@ -3897,6 +3975,12 @@
       "has_tag_c_iron_ingots": "2025-01-04 00:48:16 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:treasure_seeker": {
+    "criteria": {
+      "oak_tree_1": "2025-01-04 01:02:28 +0000"
+    },
+    "done": false
   },
   "betternether:recipes/decorations/willow_taburet": {
     "criteria": {
@@ -4330,6 +4414,12 @@
     },
     "done": true
   },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "oak_tree_1": "2025-01-04 01:02:28 +0000"
+    },
+    "done": false
+  },
   "everycomp:recipes/decorations/af/biomesoplenty/redwood_shelf": {
     "criteria": {
       "has_planks": "2025-01-04 00:44:05 +0000"
@@ -4411,6 +4501,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-01-04 00:44:48 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/nut_butter_bottle": {
+    "criteria": {
+      "has_nuts": "2025-01-04 01:01:15 +0000"
     },
     "done": true
   },
@@ -4699,6 +4795,12 @@
   "aether:recipes/combat/wooden_sword_repairing": {
     "criteria": {
       "has_wooden_sword": "2025-01-04 00:45:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-04 01:02:49 +0000"
     },
     "done": true
   },

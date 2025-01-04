@@ -3828,3 +3828,12 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 00:54:42.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <tutito> holi
 [04Jan2025 00:55:30.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito has made the advancement [Stone Age]
 [04Jan2025 01:02:49.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 01:04:49.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Efficiency V to zxymatthewyxz's item]
+[04Jan2025 01:05:08.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Unbreaking III to zxymatthewyxz's item]
+[04Jan2025 01:05:20.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Fortune III to zxymatthewyxz's item]
+[04Jan2025 01:05:30.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Applied enchantment Mending to zxymatthewyxz's item]
+[04Jan2025 01:06:15.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 01:11:44.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Ol' Betsy]
+[04Jan2025 01:12:07.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz was slain by Zombie
+[04Jan2025 01:12:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <tutito> te amo mucho
+[04Jan2025 01:13:53.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito has made the advancement [Monster Hunter]
