@@ -3971,3 +3971,47 @@ java.lang.NullPointerException: Cannot invoke "com.google.gson.JsonElement.isJso
 [04Jan2025 02:42:22.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
 [04Jan2025 02:42:43.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
 [04Jan2025 02:44:54.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Shape of My Heart]
+[04Jan2025 02:48:38.763] [Worker-Main-42/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[04Jan2025 02:48:38.780] [Worker-Main-42/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 18ms
+[04Jan2025 02:48:39.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Hostile Paradise]
+[04Jan2025 02:48:46.999] [Worker-Main-41/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:swet_syrup"}
+[04Jan2025 02:48:46.999] [Worker-Main-41/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:holystone_knife",tag:{Damage:0}}
+[04Jan2025 02:48:47.000] [Worker-Main-41/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:ambrosia_dew"}
+[04Jan2025 02:48:47.000] [Worker-Main-41/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:holystone_knife",tag:{Damage:0}}
+[04Jan2025 02:48:47.002] [Worker-Main-41/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:swet_syrup"}
+[04Jan2025 02:48:47.002] [Worker-Main-41/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:ambrosia_dew"}
+[04Jan2025 02:48:47.003] [Worker-Main-41/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aetherdelight:ambrosia_dew"}
+[04Jan2025 02:48:49.954] [Worker-Main-41/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-11415, y=59, z=-3754}
+[04Jan2025 02:48:52.218] [Worker-Main-42/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-11353, y=65, z=-3913}
+[04Jan2025 02:48:52.219] [Worker-Main-42/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-11354, y=65, z=-3912}
+[04Jan2025 02:49:42.170] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2336ms or 46 ticks behind
+[04Jan2025 02:49:47.980] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element lost_aether_content:platinum_dungeon took 0 ms
+[04Jan2025 02:49:52.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -11103.500000, 113.748479, -4079.500000]
+[04Jan2025 02:50:35.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Exotic Hardware]
+[04Jan2025 02:51:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Ascended!]
+[04Jan2025 02:53:19.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tutito was shot by Pillager
+[04Jan2025 02:53:23.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 02:53:24.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz fell from a high place
+[04Jan2025 02:53:42.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 02:53:59.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -11103.500000, 77.000000, -4079.500000]
+[04Jan2025 02:53:59.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4525ms or 90 ticks behind
+[04Jan2025 02:55:32.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Survival Mode]
+[04Jan2025 02:55:54.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported 2 entities to tutito]
+[04Jan2025 02:56:38.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has completed the challenge [Overkill]
+[04Jan2025 02:57:06.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Somehow, Pickarang Returned]
+[04Jan2025 03:00:01.950] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:sunken_city took 6 ms
+[04Jan2025 03:00:06.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -3391.500000, 69.000000, 32.500000]
+[04Jan2025 03:00:13.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
+[04Jan2025 03:02:11.788] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:ancient_factory took 68 ms
+[04Jan2025 03:02:24.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -5231.500000, 4.459681, 2000.500000]
+[04Jan2025 03:02:24.655] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8971ms or 179 ticks behind
+[04Jan2025 03:02:25.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zxymatthewyxz has made the advancement [Cool, Cool Cave]
+[04Jan2025 03:02:35.002] [Worker-Main-41/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[04Jan2025 03:02:48.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Spectator Mode]
+[04Jan2025 03:02:49.867] [Worker-Main-42/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
+[04Jan2025 03:02:57.976] [Worker-Main-41/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[04Jan2025 03:03:25.947] [Worker-Main-41/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[04Jan2025 03:03:55.208] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element villagesandpillages:village_witch took 2303 ms
+[04Jan2025 03:03:55.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2274ms or 45 ticks behind
+[04Jan2025 03:04:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Teleported zxymatthewyxz to -2847.500000, -21.158207, 2512.500000]
+[04Jan2025 03:05:07.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zxymatthewyxz: Set own game mode to Creative Mode]
