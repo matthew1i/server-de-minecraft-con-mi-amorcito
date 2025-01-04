@@ -69,6 +69,7 @@
     "criteria": {
       "minecraft:beach": "2025-01-02 23:33:42 +0000",
       "minecraft:river": "2025-01-02 23:46:07 +0000",
+      "minecraft:forest": "2025-01-04 00:38:00 +0000",
       "minecraft:savanna": "2025-01-02 23:31:13 +0000",
       "minecraft:plains": "2025-01-02 23:45:17 +0000"
     },
@@ -2279,6 +2280,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-01-02 23:47:23 +0000",
+      "dune_beach": "2025-01-04 00:38:44 +0000",
       "prairie": "2025-01-02 23:45:56 +0000"
     },
     "done": false
@@ -4747,6 +4749,150 @@
   "blue_skies:recipes/food/cake_compat": {
     "criteria": {
       "has_item": "2025-01-03 00:10:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bisque": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_tall_stool": {
+    "criteria": {
+      "has_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_lamp": {
+    "criteria": {
+      "has_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2025-01-04 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_curtain": {
+    "criteria": {
+      "has_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_crab": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-01-04 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-01-04 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/crab_cakes": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-04 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-04 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-01-04 00:40:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/gray_stool": {
+    "criteria": {
+      "has_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "crabbersdelight:recipes/building_blocks/crab_barrel": {
+    "criteria": {
+      "has_crab": "2025-01-04 00:38:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-04 00:39:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-04 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-01-04 00:40:39 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-01-04 00:39:57 +0000"
     },
     "done": true
   },
